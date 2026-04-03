@@ -1,0 +1,2 @@
+# privay-policy
+Privacy policy
